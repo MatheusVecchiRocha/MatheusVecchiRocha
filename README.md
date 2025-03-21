@@ -61,3 +61,4 @@ Olá programadores e programadoras, me chamo Matheus Vecchi Rocha sou de São Pa
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=MatheusVecchiRocha&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" 
   />
+  </p>
