@@ -49,4 +49,15 @@ Olá programadores e programadoras, me chamo Matheus Vecchi Rocha sou de São Pa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
           
-          
+
+ 
+ ### 📊 Estatísticas
+
+  <p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=MatheusVecchiRocha&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" 
+  />
