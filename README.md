@@ -2,7 +2,7 @@
 
 **`Programador`**
 
-Olá programadores e programadoras, me chamo Matheus Vecchi Rocha sou de São Paulo capital zona leste, tenho 22 anos, atualmente cursando Cienciêa da Computação no 7° semestre. Gosto de desenvolver projetos inusitados e aprender diversas linguagens.  
+Olá programadores e programadoras, me chamo Matheus Vecchi Rocha sou de São Paulo capital zona leste, tenho 22 anos, atualmente cursando Ciência da Computação no 7° semestre. Gosto de desenvolver projetos inusitados e aprender diversas linguagens.  
 ### Linguagens que utilizo:
 
 <img 
@@ -49,17 +49,26 @@ Olá programadores e programadoras, me chamo Matheus Vecchi Rocha sou de São Pa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
 
- ###  📊 Estatísticas
+ 
+### 📊 Estatísticas
 
-  <p>
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MatheusVecchiRocha&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=MatheusVecchiRocha&show_icons=true&theme=synthwave&layoutinclude_all_commits=true&locale=pt-br" 
   />
-  </p>
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVecchiRocha&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=5" 
+  />
+
+</p>
 
  
 
